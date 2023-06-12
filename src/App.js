@@ -1,9 +1,11 @@
 import './App.css';
+import GetData from './components/GetData/GetData';
+
 
 function App() {
   return (
     <div className="App">
-      
+      <GetData />
     </div>
   );
 }

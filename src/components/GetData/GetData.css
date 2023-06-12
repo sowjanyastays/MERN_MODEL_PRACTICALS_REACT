@@ -1,0 +1,16 @@
+*{
+    background-color: lightpink;
+    max-width: 989px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 295px;
+}
+#holiday-box{
+   border : 2px solid black;
+   margin-bottom: 5px;
+   font-weight: bold;
+   border-radius: 25px;
+   
+}
